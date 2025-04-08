@@ -1,2 +1,3 @@
-Designed and developed an interactive puzzle game in Java using OOP principles, enhancing modularity and code reusability.
-Implemented game logic, UI, and event handling, leveraging JavaTpoint resources to optimize performance and user experience.
+Developed a portfolio website showcasing frontend development skills, including project demonstrations, achievements, and personal information, with a strong emphasis on clean UI.
+Integrated project demonstration videos, achieving a user engagement rate of over 80%. HTML, CSS, JavaScript.
+
